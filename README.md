@@ -69,7 +69,7 @@ Pivot charts
 
 A dashboard was created for visualizations according to pivot tables.
 
-![Screenshot 2025-04-15 164519](https://github.com/user-attachments/assets/bb7cde13-f59d-4f54-afd6-9366b6bd0179)
+![Screenshot 2025-04-17 162142](https://github.com/user-attachments/assets/5de761d4-3426-47fb-b79d-b2238643ca0f)
 
 ## Insights
 
