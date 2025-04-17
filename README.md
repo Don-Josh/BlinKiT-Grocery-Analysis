@@ -46,7 +46,7 @@ iv. Average Rating: The average customer rating for item sold.
   "Additional KPI Metrics:- Assess how other KPIs(Average Sales, Number of Items, Average ratings) vary with fat content"
 
 ## Skills/ concepts demonstrated
-Pivot Table, Pivot Chart, Data Cleaning, Data Transformation.
+Pivot Table, Pivot Chart, Data Cleaning, Data Transformation, Interactive Dashboard.
 
 ## Tools Used:
 Microsoft Excel
