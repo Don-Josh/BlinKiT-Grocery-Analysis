@@ -71,6 +71,69 @@ A dashboard was created for visualizations according to pivot tables.
 
 ![Screenshot 2025-04-15 164519](https://github.com/user-attachments/assets/bb7cde13-f59d-4f54-afd6-9366b6bd0179)
 
+## Insights
+
+#### Top Performing Item Types: 
+  Fruits and Vegetables, Snack Foods, Household Items, Frozen Food, and Dairy Products lead in sales, while Hard Drinks, Others, Starchy Foods, Breakfast Items, and Seafood record the lowest.
+
+#### Consumer Preferences: 
+  Low-fat products have higher customer preference compared to regular options.
+
+#### Customer Satisfaction:
+  The platform maintains an average product rating of 4, indicating overall positive customer feedback.
+
+#### Outlet Establishment Year: 
+  Stores established in 2018 generated the highest revenue compared to outlets from other years.
+
+#### Store Type Performance: 
+  Supermarket Type 1 consistently outperforms Type 2, Type 3, and Grocery Stores across total sales, average sales, and item count.
+
+#### Geographical Insights: 
+  Outlets in Tier 3 locations dominate sales performance, followed by Tier 2, while Tier 1 lags behind.
+
+## Recommendations/Conclusion
+
+#### Focus on High-Demand Categories
+  Prioritize inventory and promotions for top-performing categories: Fruits & Vegetables, Snack Foods, Household Items, Frozen Food, and Dairy.
+
+  Introduce bundle deals or loyalty programs for these categories to maximize sales volume.
+
+#### Revamp Low-Performing Product Lines
+  Reassess marketing strategy or shelf space allocation for underperforming categories like Hard Drinks, Starchy Foods, Breakfast Items, and Seafood.
+
+  Consider limited-time offers or customer feedback surveys to identify barriers to purchase.
+
+#### Promote Low-Fat Product Lines
+  Leverage the higher patronage of low-fat options by launching health-focused campaigns.
+
+  Add “healthy choice” labels and create separate filters or categories to improve discoverability.
+
+#### Leverage Customer Ratings
+  Maintain or improve the average rating of 4 by:
+
+  Ensuring accurate product descriptions,
+
+  Prompt delivery,
+
+  Offering post-purchase support.
+
+#### Expand Successful Outlet Models
+  Replicate the 2018 outlet model, as it generated the highest revenue. Evaluate what worked—location, management style, or demographic reach—and replicate those elements in newer outlets.
+
+#### Invest More in Supermarket Type 1
+  Since Supermarket Type 1 consistently outperforms others, allocate more resources, marketing efforts, and inventory stock to this outlet type.
+
+  Consider converting low-performing outlet types into Type 1 formats, if feasible.
+
+#### Maximize Reach in Tier 3 Locations
+  With Tier 3 outlets leading in performance, increase delivery capacity, warehouse presence, and hyper-local advertising in these regions.
+
+  Explore expansion into similar Tier 3 cities with untapped potential.
+
+
+
+
+
 
 
 
