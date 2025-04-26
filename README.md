@@ -48,7 +48,7 @@ iv. Average Rating: The average customer rating for item sold.
 ## Skills/ concepts demonstrated
 Pivot Table, Pivot Chart, Data Cleaning, Data Transformation, Interactive Dashboard.
 
-## Tools Used:
+## Tool Used
 Microsoft Excel
 
 ## Data Source
